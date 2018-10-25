@@ -1,0 +1,17 @@
+- creater folder (directory)
+mkdir folder-name
+- enter the folder we created
+cd folder-name
+- create file
+touch file-name.html (.css,.txt,.js)
+
+on Github - steps:
+1. create new repository by clicking on "+" next to the profile picture on Github.com/yourusername
+2. copy the longest line from 
+
+Github commands - on our local computer;
+1. git init-> initialize local repository (directory) as git repository
+(prepare local repository to be attached to the one on Github)
+2. git add. -> add all files from the repositiry to the staging phase
+3. git commit -m"some message goes here" -> attach the message to the commit
+4. git push origin master -> sends the files to the corresponding repository on Github
